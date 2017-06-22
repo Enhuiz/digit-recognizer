@@ -6,8 +6,8 @@
 
 ```
 $ mkdir data
-$ cp .../train.csv data/train.csv
-$ cp .../test.csv data/test.csv
+$ cp path-to-your-download-directory/train.csv data/train.csv
+$ cp path-to-your-download-directory/test.csv data/test.csv
 ```
 
 ### 2. Install dependencies.
