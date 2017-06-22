@@ -2,7 +2,7 @@
 
 ## How to run
 
-### 1. Create a directory called data and copy your data downloaded from Kaggle into it.
+### 1. Create a directory called data and copy your data downloaded from Kaggle into it
 
 ```
 $ mkdir data
@@ -10,7 +10,7 @@ $ cp path-to-your-download-directory/train.csv data/train.csv
 $ cp path-to-your-download-directory/test.csv data/test.csv
 ```
 
-### 2. Install dependencies.
+### 2. Install dependencies
 
 ```
 $ pip3 install numpy
@@ -18,7 +18,7 @@ $ pip3 install pandas
 $ pip3 install tensorflow
 ```
 
-### 3. Train your model.
+### 3. Train your model
 
 ```
 python3 main.py
